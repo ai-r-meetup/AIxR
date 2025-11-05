@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "ggplot2 extenders",
+    "section": "Links:",
+    "text": "Links:\n### General\n\nThe ggplot2 repository\n\n### Extending ggplot2\n\nThe extending ggplot2 chapters of the ggplot2 book:\n\nChapter 19: Programming with ggplot2\nChapter 20: ggplot2 internals\nChapter 21: Writing ggplot2 extensions\nChapter 22: Case Study: Springs\n\nThe extending ggplot2 vignette\nThe ggproto tag on StackOverflow\n\n### Extensions\n\nThe extensions gallery\nThe Awesome ggplot2 repository\n\n### Talks\n\nExtending your ability to extend ggplot2 by Thomas Lin Pederson at rstudio::conf 2020\nBest practises for programming with ggplot2 by Dewey Dunnington at rstudio::conf 2020\nCracking open ggplot internals with {ggtrace} by June Choe at rstudio::conf 2022"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Coordination of this space is generously supported by Posit PBC. 🙏",
+    "section": "",
+    "text": "Welcome to AIxR meetup. This forum exists to facilitate conversations about AI w/ R.\nOur main activities are meetings and discussions.\nWant to be notified of our meetings? Please leave your contact info here and let us know a little about your interest in ggplot2 extension so we can be in touch!\n\n\n\nWhat people are saying\n\nIt is fantastic to hear developers speaking directly to other developers. - W. Joel Schneider, author of {arrowheadr}\n\n\nIt’s been great getting more involved in the extensions community, thanks for creating a place for us all to congregate! William Gearty - {deeptime}\n\n\nParticipating has been one of the highlights of my year. - Joyce Robbins, ggplot2 enthusiast and instructor\n\n\nIt’s extremely gratifying to be able to connect with and learn from people who share this still somewhat niche interest in grammatical / algebraic statistical software design. - Cory Brunson, Author of {ggalluvial} and {ordr}\n\n\nI had a lot of fun at last week’s meeting! – Matthew Kay, author of {ggblend}, {ggdist}\n\n\nGreat effort [is put into] organising all the meetings and inviting people. - Teun van den Brand, author of {ggh4x}, {legendry}, ggplot2 maintainer\n\n\n\n\nMeeting history (go to meetings page)\n\n\n\n\n\n\n\n\n\n\n\nCoordination of this space is generously supported by Posit PBC. 🙏"
+  },
+  {
+    "objectID": "ggextenders-hex.html",
+    "href": "ggextenders-hex.html",
+    "title": "ggextenders hex",
+    "section": "",
+    "text": "This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:"
+  },
+  {
+    "objectID": "ggextenders-hex.html#r-markdown",
+    "href": "ggextenders-hex.html#r-markdown",
+    "title": "ggextenders hex",
+    "section": "",
+    "text": "This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:"
+  },
+  {
+    "objectID": "meetings.html",
+    "href": "meetings.html",
+    "title": "AI x R meetup",
+    "section": "",
+    "text": "AIxR meet virtually to hear extenders discuss motivation, origins, and challenges of their extension projects since Oct 2025. Join us"
+  },
+  {
+    "objectID": "README.Rmd.html",
+    "href": "README.Rmd.html",
+    "title": "ggplot-extension-club",
+    "section": "",
+    "text": "A repository as a discussion place for extending the ggplot2 R package.\nAs a bit of background: some people have been meeting virtually every few months and discussing ggplot2 extension.\nUpcoming meeting:\n\n{animint2}, Toby Hocking, August 19, 2024\n\nPast meetings\n\n{ggnewscale}, Elio Campitelli, June 22/23, 2024\n{ggedit}, Jonathan Sidi, May 11, 2024\nA conversation with Di Cook {GGally}, March 12/13, 2024\n{ggdag}, Malcolm Barrett, Feb 10, 2024\n{ggflowchart} Nicola Rennie & {arrowheadr} W. Joel Schneider Nov 4, 2023\n{ggeasy} Jonathan Carroll, Sept 2, 2023\n{ggsurvfit}, Daniel Sjoberg, June 10, 2023\n{ggcirclepack}, Gina Reynolds, April 15, 2023\nFundamentals of Data Visualization, Claus Wilke, Jan 28, 2022\n{ggtrace}, June Choe, July 16, 2022\n{ggh4x}, Teun Van Den Brand, June 11, 2022\n{geomtextpath} Allan Cameron May 7, 2022\n{ggbump} David Sjoberg, April 9, 2022\nFirst meeting, March 19, 2022\n\nThis repository will accommodate some discussion outside those meetings and coordination efforts. Feel free to participate in discussions and be in touch!\n\n\n\n\n\nThe ggplot2 repository\n\n\n\n\n\nThe extending ggplot2 chapters of the ggplot2 book:\n\nChapter 19: Programming with ggplot2\nChapter 20: ggplot2 internals\nChapter 21: Writing ggplot2 extensions\nChapter 22: Case Study: Springs\n\nThe extending ggplot2 vignette\nThe ggproto tag on StackOverflow\n\n\n\n\n\nThe extensions gallery\nThe Awesome ggplot2 repository\n\n\n\n\n\nExtending your ability to extend ggplot2 by Thomas Lin Pederson at rstudio::conf 2020\nBest practises for programming with ggplot2 by Dewey Dunnington at rstudio::conf 2020\nCracking open ggplot internals with {ggtrace} by June Choe at rstudio::conf 2022\n\n![(https://github.com/teunbrand/ggplot-extension-club/blob/main/ggextenders-hex_files/figure-html/unnamed-chunk-1-1.png?raw=true)"
+  },
+  {
+    "objectID": "README.Rmd.html#links",
+    "href": "README.Rmd.html#links",
+    "title": "ggplot-extension-club",
+    "section": "",
+    "text": "The ggplot2 repository\n\n\n\n\n\nThe extending ggplot2 chapters of the ggplot2 book:\n\nChapter 19: Programming with ggplot2\nChapter 20: ggplot2 internals\nChapter 21: Writing ggplot2 extensions\nChapter 22: Case Study: Springs\n\nThe extending ggplot2 vignette\nThe ggproto tag on StackOverflow\n\n\n\n\n\nThe extensions gallery\nThe Awesome ggplot2 repository\n\n\n\n\n\nExtending your ability to extend ggplot2 by Thomas Lin Pederson at rstudio::conf 2020\nBest practises for programming with ggplot2 by Dewey Dunnington at rstudio::conf 2020\nCracking open ggplot internals with {ggtrace} by June Choe at rstudio::conf 2022\n\n![(https://github.com/teunbrand/ggplot-extension-club/blob/main/ggextenders-hex_files/figure-html/unnamed-chunk-1-1.png?raw=true)"
+  },
+  {
+    "objectID": "discussion.html",
+    "href": "discussion.html",
+    "title": "AI x R meetup",
+    "section": "",
+    "text": "Check out our online discussion forum where you can contribute to existing threads or bring up new topics."
+  },
+  {
+    "objectID": "index.html#links-general-the-ggplot2-repository-extending-ggplot2-the-extending-ggplot2-chapters-of-the-ggplot2-book-chapter-19-programming-with-ggplot2-chapter-20-ggplot2-internals-chapter-21-writing-ggplot2-extensions-chapter-22-case-study-springs-the-extending-ggplot2-vignette-the-ggproto-tag-on-stackoverflow-extensions-the-extensions-gallery-the-awesome-ggplot2-repository-talks-extending-your-ability-to-extend-ggplot2-by-thomas-lin-pederson-at-rstudioconf-2020-best-practises-for-programming-with-ggplot2-by-dewey-dunnington-at-rstudioconf-2020-cracking-open-ggplot-internals-with-ggtrace-by-june-choe-at-rstudioconf-2022",
+    "href": "index.html#links-general-the-ggplot2-repository-extending-ggplot2-the-extending-ggplot2-chapters-of-the-ggplot2-book-chapter-19-programming-with-ggplot2-chapter-20-ggplot2-internals-chapter-21-writing-ggplot2-extensions-chapter-22-case-study-springs-the-extending-ggplot2-vignette-the-ggproto-tag-on-stackoverflow-extensions-the-extensions-gallery-the-awesome-ggplot2-repository-talks-extending-your-ability-to-extend-ggplot2-by-thomas-lin-pederson-at-rstudioconf-2020-best-practises-for-programming-with-ggplot2-by-dewey-dunnington-at-rstudioconf-2020-cracking-open-ggplot-internals-with-ggtrace-by-june-choe-at-rstudioconf-2022",
+    "title": "ggplot2 extenders",
+    "section": "Links: ### General * The ggplot2 repository ### Extending ggplot2 * The extending ggplot2 chapters of the ggplot2 book: * Chapter 19: Programming with ggplot2 * Chapter 20: ggplot2 internals * Chapter 21: Writing ggplot2 extensions * Chapter 22: Case Study: Springs * The extending ggplot2 vignette * The ggproto tag on StackOverflow ### Extensions * The extensions gallery * The Awesome ggplot2 repository ### Talks * Extending your ability to extend ggplot2 by Thomas Lin Pederson at rstudio::conf 2020 * Best practises for programming with ggplot2 by Dewey Dunnington at rstudio::conf 2020 * Cracking open ggplot internals with {ggtrace} by June Choe at rstudio::conf 2022",
+    "text": "Links: ### General * The ggplot2 repository ### Extending ggplot2 * The extending ggplot2 chapters of the ggplot2 book: * Chapter 19: Programming with ggplot2 * Chapter 20: ggplot2 internals * Chapter 21: Writing ggplot2 extensions * Chapter 22: Case Study: Springs * The extending ggplot2 vignette * The ggproto tag on StackOverflow ### Extensions * The extensions gallery * The Awesome ggplot2 repository ### Talks * Extending your ability to extend ggplot2 by Thomas Lin Pederson at rstudio::conf 2020 * Best practises for programming with ggplot2 by Dewey Dunnington at rstudio::conf 2020 * Cracking open ggplot internals with {ggtrace} by June Choe at rstudio::conf 2022"
+  },
+  {
+    "objectID": "index.html#links-general-the-ggplot2-repository-extending-ggplot2-the-extending-ggplot2-chapters-of-the-ggplot2-book-chapter-19-programming-with-ggplot2-chapter-20-ggplot2-internals-chapter-21-writing-ggplot2-extensions-chapter-22-case-study-springs-the-extending-ggplot2-vignette-the-ggproto-tag-on-stackoverflow-extensions-the-extensions-gallery-the-awesome-ggplot2-repository-talks-httpswww.rstudio.comresourcesrstudioconf-2020extending-your-ability-to-extend-ggplot2-by-thomas-lin-pederson-at-rstudioconf-2020-httpswww.rstudio.comresourcesrstudioconf-2020best-practices-for-programming-with-ggplot2-by-dewey-dunnington-at-rstudioconf-2020-httpswww.rstudio.comresourcesrstudioconf-2020best-practices-for-programming-with-ggplot2-by-june-choe-at-rstudioconf-2022",
+    "href": "index.html#links-general-the-ggplot2-repository-extending-ggplot2-the-extending-ggplot2-chapters-of-the-ggplot2-book-chapter-19-programming-with-ggplot2-chapter-20-ggplot2-internals-chapter-21-writing-ggplot2-extensions-chapter-22-case-study-springs-the-extending-ggplot2-vignette-the-ggproto-tag-on-stackoverflow-extensions-the-extensions-gallery-the-awesome-ggplot2-repository-talks-httpswww.rstudio.comresourcesrstudioconf-2020extending-your-ability-to-extend-ggplot2-by-thomas-lin-pederson-at-rstudioconf-2020-httpswww.rstudio.comresourcesrstudioconf-2020best-practices-for-programming-with-ggplot2-by-dewey-dunnington-at-rstudioconf-2020-httpswww.rstudio.comresourcesrstudioconf-2020best-practices-for-programming-with-ggplot2-by-june-choe-at-rstudioconf-2022",
+    "title": "ggplot2 extenders",
+    "section": "Links: ### General The ggplot2 repository ### Extending ggplot2 The extending ggplot2 chapters of the ggplot2 book: Chapter 19: Programming with ggplot2 Chapter 20: ggplot2 internals Chapter 21: Writing ggplot2 extensions Chapter 22: Case Study: Springs The extending ggplot2 vignette The ggproto tag on StackOverflow ### Extensions The extensions gallery The Awesome ggplot2 repository ### Talks (https://www.rstudio.com/resources/rstudioconf-2020/extending-your-ability-to-extend-ggplot2/) by Thomas Lin Pederson at rstudio::conf 2020 (https://www.rstudio.com/resources/rstudioconf-2020/best-practices-for-programming-with-ggplot2/) by Dewey Dunnington at rstudio::conf 2020 (https://www.rstudio.com/resources/rstudioconf-2020/best-practices-for-programming-with-ggplot2/) by June Choe at rstudio::conf 2022 ",
+    "text": "Links: ### General The ggplot2 repository ### Extending ggplot2 The extending ggplot2 chapters of the ggplot2 book: Chapter 19: Programming with ggplot2 Chapter 20: ggplot2 internals Chapter 21: Writing ggplot2 extensions Chapter 22: Case Study: Springs The extending ggplot2 vignette The ggproto tag on StackOverflow ### Extensions The extensions gallery The Awesome ggplot2 repository ### Talks (https://www.rstudio.com/resources/rstudioconf-2020/extending-your-ability-to-extend-ggplot2/) by Thomas Lin Pederson at rstudio::conf 2020 (https://www.rstudio.com/resources/rstudioconf-2020/best-practices-for-programming-with-ggplot2/) by Dewey Dunnington at rstudio::conf 2020 (https://www.rstudio.com/resources/rstudioconf-2020/best-practices-for-programming-with-ggplot2/) by June Choe at rstudio::conf 2022"
+  },
+  {
+    "objectID": "additional-resources.html",
+    "href": "additional-resources.html",
+    "title": "ggplot2 extenders 🫖",
+    "section": "",
+    "text": "Check out the beginner-friendly ‘easy geom_*() recipes’, which have been tested by new-comers, vetted by experts, is feedback-refined via surveys and focus groups, and are kept up-to-date (noting and soon incorporating ggplot2 4.0.0 release developments). You can also check out the under-development ggplot2 extension cookbook for more extension moves.\nAdditional educational resources include the extending ggplot2 chapters of the ggplot2 book (Programming with ggplot2, ggplot2 internals, Writing ggplot2 extensions, Case Study: Springs); the extending ggplot2 vignette; and the ggproto tag on StackOverflow.\nTalks that may help orient you to extension include Extending your ability to extend ggplot2 by Thomas Lin Pederson at rstudio::conf 2020, Best practises for programming with ggplot2 by Dewey Dunnington at rstudio::conf 2020, and Cracking open ggplot internals with {ggtrace} by June Choe at rstudio::conf 2022.\nAdditional resources include the ggplot2 repository, the extensions gallery, the Awesome ggplot2 repository."
+  },
+  {
+    "objectID": "additional-resources.html#additional-resources",
+    "href": "additional-resources.html#additional-resources",
+    "title": "ggplot2 extenders 🫖",
+    "section": "Additional resources:",
+    "text": "Additional resources:\nGeneral\n\nThe ggplot2 repository\n\nExtending ggplot2\n\nThe extending ggplot2 chapters of the ggplot2 book:\n\nChapter 19: Programming with ggplot2\nChapter 20: ggplot2 internals\nChapter 21: Writing ggplot2 extensions\nChapter 22: Case Study: Springs\n\nThe extending ggplot2 vignette\nThe ggproto tag on StackOverflow\n\nExtensions\n\nThe extensions gallery\nThe Awesome ggplot2 repository\n\nTalks\n\nExtending your ability to extend ggplot2 by Thomas Lin Pederson at rstudio::conf 2020\nBest practises for programming with ggplot2 by Dewey Dunnington at rstudio::conf 2020\nCracking open ggplot internals with {ggtrace} by June Choe at rstudio::conf 2022"
+  },
+  {
+    "objectID": "meetings.html#upcoming",
+    "href": "meetings.html#upcoming",
+    "title": "AI x R meetup",
+    "section": "Upcoming:",
+    "text": "Upcoming:\n\n\n\n\n\n\n\n\ndate\npresenter\npackage\nspecial.topic\n\n\n\n\nTentative\nFrank Hull\nggpal\nAI x coded viz"
+  },
+  {
+    "objectID": "meetings.html#past-meetings",
+    "href": "meetings.html#past-meetings",
+    "title": "AI x R meetup",
+    "section": "Past meetings:",
+    "text": "Past meetings:\n\n\n\n\n\n\n\n\ndate\npresenter\npackage\nspecial.topic\n\n\n\n\nWed, Oct 29, 2025\nKyle Walker\n\nspatial"
+  },
+  {
+    "objectID": "additional-resources.html#gg-packages-on-cran-and-authors",
+    "href": "additional-resources.html#gg-packages-on-cran-and-authors",
+    "title": "ggplot2 extenders 🫖",
+    "section": "‘gg’ packages on CRAN and authors",
+    "text": "‘gg’ packages on CRAN and authors\nThe ggplot2 extension ecosystem is vast the source code can be of course an additional useful reference."
+  },
+  {
+    "objectID": "additional-resources.html#section",
+    "href": "additional-resources.html#section",
+    "title": "ggplot2 extenders 🫖",
+    "section": "",
+    "text": "The ggplot2 extension ecosystem is vast the source code these packages can be an additional useful reference.\n\n‘gg’ packages on CRAN and authors"
+  }
+]
