@@ -33,30 +33,69 @@ ggcanvas() +
 
 ------------------------------------------------------------------------
 
+
+
 ### *What people are saying*
 
+```{css, echo = F}
+.quote-left {
+  width: 80%;
+  text-align: left;
+  margin: 1em 0;
+  padding-left: 1em;
+  border-left: 4px solid #ccc;
+  background-color: #lightgrey; /* Light blue tint */
+  font-style: italic;
+  border-radius: 12px;
+
+}
+
+.quote-right {
+  width: 80%;
+  text-align: right;
+  margin: 1em 0 1em 20%;
+  padding-right: 1em;
+  border-right: 4px solid #ccc;
+  background-color: #f0f8ff; /* Light blue tint */
+  font-style: italic;
+  border-radius: 12px;
+
+}
+
+.wrap-image-left img {
+  float: left;
+  width: 20%;
+  margin: 0 0em 0em 0;
+  border-radius: 12px;
+}
+
+```
+
+
+
+
 ::: quote-left
-*It is fantastic to hear developers speaking directly to other developers.* - W. Joel Schneider, author of {arrowheadr}
+On Wednesday, I presented on my experiences using LLMs & AI to develop geospatial tools... Kyle Walker on LinkedIn, [Go to  full post ](https://www.linkedin.com/posts/walkerke_developing-r-packages-with-llms-activity-7390078870730878976-bRg8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIFK0wBe0Q89iD-ZEWren9Fjl9ugLy3zB0)
 :::
 
 ::: quote-right
-*It's been great getting more involved in the extensions community, thanks for creating a place for us all to congregate!* William Gearty - {deeptime}
+
 :::
 
 ::: quote-left
-*Participating has been one of the highlights of my year.* - Joyce Robbins, ggplot2 enthusiast and instructor
+
 :::
 
 ::: quote-right
-*It's extremely gratifying to be able to connect with and learn from people who share this still somewhat niche interest in grammatical / algebraic statistical software design.* - Cory Brunson, Author of {ggalluvial} and {ordr}
+
 :::
 
 ::: quote-left
-*I had a lot of fun at last week's meeting!* – Matthew Kay, author of {ggblend}, {ggdist}
+
 :::
 
 ::: quote-right
-*Great effort \[is put into\] organising all the meetings and inviting people.* - Teun van den Brand, author of {ggh4x}, {legendry}, ggplot2 maintainer
+
 :::
 
 ------------------------------------------------------------------------
@@ -161,4 +200,4 @@ ggplot(talks) +
 
 ```
 
-### Coordination of this space is generously supported by Posit PBC. 🙏
+<!-- ### Coordination of this space is generously supported by Posit PBC. 🙏 -->
