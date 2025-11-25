@@ -14,6 +14,7 @@ discussions and be in touch!
 Meetings:
 
 - 2025-10-29, Kyle Walker, , spatial
+  [recording](https://www.youtube.com/watch?v=und3C8NAz68)
 
 - Tentative Nov/Dec, Frank Hull, ggpal, AI x coded viz
 
