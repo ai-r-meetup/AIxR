@@ -13,10 +13,10 @@ discussions and be in touch!
 
 Meetings:
 
-- 2025-10-29, Kyle Walker, , spatial
-  [recording](https://www.youtube.com/watch?v=und3C8NAz68)
+- 2025-10-29, Kyle Walker, {mapgl}, spatial
+  [(recording)](https://www.youtube.com/watch?v=und3C8NAz68)
 
-- Tentative Nov/Dec, Frank Hull, ggpal, AI x coded viz
+- 2025-12-02, Frank Hull, {ggpal2}, AI x coded viz
 
 <!-- -   [{animint2}](https://github.com/animint/animint2), Toby Hocking, August 19, 2024 -->
 <!-- Past meetings -->

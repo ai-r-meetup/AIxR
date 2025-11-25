@@ -88,14 +88,14 @@
     "href": "meetings.html#upcoming",
     "title": "AI x R meetup 🤖",
     "section": "Upcoming:",
-    "text": "Upcoming:\n\n\n\n\n\n\n\n\ndate\npresenter\npackage\nspecial.topic\n\n\n\n\nTentative Nov/Dec\nFrank Hull\nggpal\nAI x coded viz"
+    "text": "Upcoming:\n\n\n\n\n\n\n\n\ndate\npresenter\npackage\nspecial.topic"
   },
   {
     "objectID": "meetings.html#past-meetings",
     "href": "meetings.html#past-meetings",
     "title": "AI x R meetup 🤖",
     "section": "Past meetings:",
-    "text": "Past meetings:\n\n\n\n\n\n\n\n\ndate\npresenter\npackage\nspecial.topic\n\n\n\n\nWed, Oct 29, 2025\nKyle Walker\n\nspatial recording"
+    "text": "Past meetings:\n\n\n\n\n\n\n\n\ndate\npresenter\npackage\nspecial.topic\n\n\n\n\nWed, Oct 29, 2025\nKyle Walker\n{mapgl}\nspatial (recording)\n\n\nTue, Dec 2, 2025\nFrank Hull\n{ggpal2}\nAI x coded viz"
   },
   {
     "objectID": "additional-resources.html#gg-packages-on-cran-and-authors",

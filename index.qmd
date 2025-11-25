@@ -9,8 +9,6 @@ Our main activities are [meetings](./meetings.html) and [discussions](./discussi
 
 Want to be notified of our meetings? Please leave your contact info [here](https://docs.google.com/forms/d/e/1FAIpQLSeN4cGMH9kjM9hYmUlfy4sW4YIRUI_uJ4R4-AhX-UwHWWucKA/viewform) and let us know a little about your interest in ggplot2 extension so we can be in touch!
 
-
-
 <!-- Note that the extension ecosystem is extensive and other initiatives exist to support extenders, check out some [other resources](./additional-resources.html). -->
 
 ```{r, echo = F, warning=F, fig.height=3.5, eval = F}
@@ -32,8 +30,6 @@ ggcanvas() +
 ```
 
 ------------------------------------------------------------------------
-
-
 
 ### *What people are saying*
 
@@ -71,31 +67,23 @@ ggcanvas() +
 
 ```
 
-
-
-
 ::: quote-left
-On Wednesday, I presented on my experiences using LLMs & AI to develop geospatial tools... Kyle Walker on LinkedIn, [Go to  full post ](https://www.linkedin.com/posts/walkerke_developing-r-packages-with-llms-activity-7390078870730878976-bRg8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIFK0wBe0Q89iD-ZEWren9Fjl9ugLy3zB0)
+On Wednesday, I presented on my experiences using LLMs & AI to develop geospatial tools... Kyle Walker on LinkedIn, [Go to full post](https://www.linkedin.com/posts/walkerke_developing-r-packages-with-llms-activity-7390078870730878976-bRg8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAIFK0wBe0Q89iD-ZEWren9Fjl9ugLy3zB0)
 :::
 
 ::: quote-right
-
 :::
 
 ::: quote-left
-
 :::
 
 ::: quote-right
-
 :::
 
 ::: quote-left
-
 :::
 
 ::: quote-right
-
 :::
 
 ------------------------------------------------------------------------
